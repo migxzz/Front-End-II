@@ -1,0 +1,5 @@
+[
+    { "id": 1, "title": "Aprender React", "steps": ["Ler a documentação", "Praticar componentes"] },
+    { "id": 2, "title": "Criar ToDo App", "steps": ["Configurar projeto", "Adicionar funcionalidades"] }
+  ]
+  
